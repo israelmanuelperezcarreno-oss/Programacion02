@@ -4,6 +4,11 @@ public class Ejercuciodiapositiva8 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+int contador = 2;
+
+while(contador <= 50) {
+	System.out.println(contador);
+contador += 2;}
 
 	}
 
