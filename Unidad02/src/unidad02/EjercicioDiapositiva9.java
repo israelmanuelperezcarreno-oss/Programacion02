@@ -23,7 +23,7 @@ Scanner sc = new Scanner(System.in);
         
         contador ++;
         }
-        promedio = (double) suma / 10;
+        promedio = suma / 10;
 
         System.out.println("La suma de los números es: " + suma);
         System.out.println("El promedio es: " + promedio);
