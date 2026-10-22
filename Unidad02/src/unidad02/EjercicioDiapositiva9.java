@@ -9,12 +9,12 @@ public class EjercicioDiapositiva9 {
 Scanner sc = new Scanner(System.in);
 		
 		
-		int contador = 1;
+		int contador = 0;
         int numero;
         int suma = 0;
         double promedio;
 
-        while (contador <= 10) {
+        while (contador <= 9) {
 		
 		System.out.println("meteme un numero: ");
         numero = sc.nextInt();
